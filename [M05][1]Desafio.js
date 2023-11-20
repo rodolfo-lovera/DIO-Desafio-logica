@@ -3,7 +3,7 @@
 let nomeJogador = "Rodolfinn"
 console.log("O nome informado é " + nomeJogador)
 
-let expJogador = 110500
+let expJogador = 1100500
 let nivelJogador = "Não definido"
 
 if (expJogador < 1001){
